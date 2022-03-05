@@ -2,7 +2,8 @@ package com.example.test_tasks.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.example.test_tasks.data.models.Question
+import com.example.task.data.models.Question
+
 
 
 @Dao

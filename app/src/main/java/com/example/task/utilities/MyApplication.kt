@@ -1,4 +1,4 @@
-package com.example.test_tasks.utilities
+package com.example.task.utilities
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

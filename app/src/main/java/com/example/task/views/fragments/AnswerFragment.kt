@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.task.R
 
-class AnswersFragment : Fragment() {
+class AnswerFragment : Fragment() {
 
 
     override fun onCreateView(
